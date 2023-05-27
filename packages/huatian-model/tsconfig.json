@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "lib" : ["dom", "ESNext"]
+  },
+  "include": ["src/**/*.ts"]
+}
